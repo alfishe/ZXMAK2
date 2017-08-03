@@ -1,6 +1,11 @@
 # ZXMAK2
 Preserving project codebase while MS Codeplex is shutting down: http://zxmak2.codeplex.com/
 
+Imported Version: 2.9.2.39319
+
+Dated:	Sun Jun 14, 2015 at 3:00 AM
+
+
 # Project Description
 ZXMAK2 is a plugin based ZX Spectrum Virtual Machine. 
 In other words, it's ZX Spectrum emulator. 
